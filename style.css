@@ -1,0 +1,21 @@
+.checkbox{
+  display:flex;
+  align-content: : column;
+  justify-content: : center;
+  margin:10px;
+
+
+}
+body{
+  display:flex;
+  align-items: center;
+  direction:column;
+  flex-direction:wrap;
+  align-items: center;
+  background-color:blanchedalmond:
+}
+h1{
+  font-size: 20px;
+  font-family: 'Playfair Display', serif;
+
+}
